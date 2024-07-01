@@ -1,0 +1,26 @@
+[
+  {
+    "id": 501,
+    "fullName": "James Born",
+    "email": "james@example.com",
+    "role": "backend developer"
+  },
+  {
+    "id": 502,
+    "fullName": "Anna Smith",
+    "email": "anna@example.com",
+    "role": "frontend developer"
+  },
+  {
+    "id": 503,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "UX/UI Designer"
+  },
+  {
+    "id": 504,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "UX/UI Designer"
+  }
+]

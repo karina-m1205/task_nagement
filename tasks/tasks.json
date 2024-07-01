@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "title": "Homepage Design",
+    "description": "Create a new design for the homepage that aligns with the new branding guidelines.",
+    "status": "Completed",
+    "assignee": "Alice Johnson",
+    "dueDate": "2024-08-01"
+  },
+  {
+    "id": 102,
+    "title": "Aboutpage Design",
+    "description": "Create a new design for the aboutpage that aligns with the new branding guidelines.",
+    "status": "Completed",
+    "assignee": "Alice Johnson",
+    "dueDate": "2024-08-01"
+  },
+  {
+    "id": 103,
+    "title": "Infopage Design",
+    "description": "Create a new design for the infopage that aligns with the new branding guidelines.",
+    "status": "Completed",
+    "assignee": "Alice Johnson",
+    "dueDate": "2024-08-01"
+  }
+]
