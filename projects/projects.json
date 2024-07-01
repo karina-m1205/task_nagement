@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1001,
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the corporate website to improve user interface and overall user experience.",
+    "startDate": "2024-07-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": 75000,
+    "currency": "USD",
+    "team": [
+      501,
+      502,
+      503
+    ],
+    "tasks": [
+      101,
+      102,
+      103      
+    ]
+  }
+]
